@@ -1,0 +1,8 @@
+# Handle line endings automatically for text files
+* text=auto
+
+# Ensure Jupyter Notebook files always use LF
+*.ipynb eol=lf
+
+# Ensure PDF files are binary and not converted
+*.pdf binary
